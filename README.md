@@ -11,55 +11,55 @@ This platform simplifies the resume creation process and helps students, fresher
 
 ## ✨ Key Features
 
-## ✅ AI Resume Generation
+✅ AI Resume Generation
 Automatically creates professional resume content based on user inputs.
 
-## ✉️ AI Cover Letter Generation
+✉️ AI Cover Letter Generation
 Generates personalized cover letters tailored to the user’s profile.
 
-## 📊 ATS Optimization
+📊 ATS Optimization
 Ensures resumes include relevant keywords and formatting compatible with Applicant Tracking Systems.
 
-## 🔐 Secure Authentication System
+🔐 Secure Authentication System
 User login system with encrypted password storage.
 
-## 📄 Professional PDF Export
+📄 Professional PDF Export
 Download resumes and cover letters in clean and structured PDF format.
 
-## 👁️ Resume Preview
+👁️ Resume Preview
 Allows users to preview generated documents before downloading.
 
-## 🌐 User-Friendly Web Interface
+🌐 User-Friendly Web Interface
 Simple and interactive interface accessible through a web browser.
 
 ## 🛠️ Technology Stack
-## 🎨 Frontend
+🎨 Frontend
 
 Streamlit (Interactive Web Interface)
 
 Lottie Animations
 
-## ⚙️ Backend
+⚙️ Backend
 
 Python
 
-## 🤖 AI Integration
+🤖 AI Integration
 
 HuggingFace Inference Client
 
 Meta Llama 3 Model
 
-## 🔐 Security
+🔐 Security
 
 SHA-256 Password Hashing
 
 Session-Based Authentication
 
-## 📑 Document Generation
+📑 Document Generation
 
 ReportLab (Professional PDF Creation)
 
-## 💾 Data Storage
+💾 Data Storage
 
 Local Storage using Pickle Files
 
@@ -85,19 +85,10 @@ ResumeSpark-AI
 ├── users.pkl
 └── README.md
 
-## ⚡ Installation Guide
+## ⚡ Streamlit app
 
-1️⃣ Clone the Repository
-git clone https://github.com/yourusername/resumespark-ai.git
-
-2️⃣ Navigate to the Project Folder
-cd resumespark-ai
-
-3️⃣ Install Required Dependencies
-pip install -r requirements.txt
-
-4️⃣ Run the Application
-streamlit run app.py
+1️⃣ This app also runs using streamlit url
+https://resumespark-ai.streamlit.app/
 
 ## 🔮 Future Enhancements
 
