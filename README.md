@@ -1,6 +1,6 @@
 # ResumeSpark-AI
 🤖 AI-Powered ATS-Optimized Resume & Cover Letter Generator
---
+
 ## 📌 Project Overview
 
 ResumeSpark AI is an intelligent web-based application that automatically generates professional resumes and cover letters using Artificial Intelligence.
@@ -8,7 +8,6 @@ ResumeSpark AI is an intelligent web-based application that automatically genera
 The system analyzes user-provided career information and produces well-structured, ATS-friendly documents that improve the chances of passing recruitment screening systems.
 
 This platform simplifies the resume creation process and helps students, freshers, and professionals build strong career documents quickly.
---
 
 ## ✨ Key Features
 
@@ -32,7 +31,6 @@ Allows users to preview generated documents before downloading.
 
 ## 🌐 User-Friendly Web Interface
 Simple and interactive interface accessible through a web browser.
---
 
 ## 🛠️ Technology Stack
 ## 🎨 Frontend
@@ -64,7 +62,7 @@ ReportLab (Professional PDF Creation)
 ## 💾 Data Storage
 
 Local Storage using Pickle Files
---
+
 
 ## 🔄 System Workflow
 
@@ -75,7 +73,6 @@ Local Storage using Pickle Files
 5️⃣ Content is cleaned, formatted, and organized.
 6️⃣ The system converts the content into a professional resume format.
 7️⃣ User can preview and download the final PDF document.
---
 
 ## 📂 Project Structure
 ResumeSpark-AI
@@ -87,7 +84,7 @@ ResumeSpark-AI
 ├── requirements.txt
 ├── users.pkl
 └── README.md
---
+
 ## ⚡ Installation Guide
 
 1️⃣ Clone the Repository
@@ -101,7 +98,7 @@ pip install -r requirements.txt
 
 4️⃣ Run the Application
 streamlit run app.py
---
+
 ## 🔮 Future Enhancements
 
 🚀 Job Description Keyword Extractor
